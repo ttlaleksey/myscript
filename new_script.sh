@@ -10,3 +10,5 @@ echo Mail-server
 dig mail.$www +short
 echo TXT
 dig $www txt +short
+
+echo "Дальше сам"
